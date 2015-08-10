@@ -1,0 +1,29 @@
+{
+  "name": "copy2cb",
+  "version": "0.0.1",
+  "description": "send text to an Android phone (almost) directly from a web to the clipboard",
+  "main": "copy2cb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/butelo/copy2cb.git"
+  },
+  "keywords": [
+    "android",
+    "clipboard",
+    "text",
+    "notification"
+  ],
+  "author": "Xes García Santamarina",
+  "license": "GPL.v2",
+  "bugs": {
+    "url": "https://github.com/butelo/copy2cb/issues"
+  },
+  "homepage": "https://github.com/butelo/copy2cb",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1"
+  }
+}
